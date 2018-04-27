@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FullBattary.iml" filepath="$PROJECT_DIR$/FullBattary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FullBattary.iml" filepath="$PROJECT_DIR$/.idea/FullBattary.iml" />
+      <module fileurl="file://F:\Arvind\FullBattary\FullBattary.iml" filepath="F:\Arvind\FullBattary\FullBattary.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
